@@ -306,6 +306,12 @@ margin-left: 70px;
     flex-direction: column;
     align-items: center;
 }
+     @media(max-width:641px){
+
+    .content{
+        align-content: center;
+    }
+ }
 
 
 
